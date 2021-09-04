@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Тест голосового модуля</string>
+    <string name="button_listen">Голосовой ввод текста</string>
+    <string name="button_say">Озвучить текст</string>
+</resources>
